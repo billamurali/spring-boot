@@ -2,6 +2,10 @@ package com.sample.springboot.domain;
 
 public class User {
 
+	/**
+	 * User class To intilize and retriving of username password
+	 */
+
 	private String userName;
 
 	private String password;
